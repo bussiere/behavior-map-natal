@@ -1,0 +1,6 @@
+ 
+[17:34, 06/01/2020] bussiere: tiens sur l api google place
+[17:35, 06/01/2020] bussiere: tu peux avoir le prix de la place
+[17:35, 06/01/2020] bussiere: du lieu
+[17:35, 06/01/2020] bussiere: enfin la fourchette de prix de la boutique
+[17:35, 06/01/2020] bussiere: du coup pour le ML ca peut etre pas mal
